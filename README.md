@@ -1,4 +1,4 @@
-# Candidatos aptos a votar no Brasil por Estado em 2020
+# Eleitores aptos a votar no Brasil por Estado em 2020
 
 # Autore da análise:
 
