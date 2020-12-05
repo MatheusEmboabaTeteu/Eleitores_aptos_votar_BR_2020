@@ -1,6 +1,6 @@
 # Eleitores aptos a votar no Brasil por Estado em 2020
 
-# Autore da análise:
+# Autor da análise:
 
 [Matheus Emboaba Mello de Souza](https://github.com/MatheusEmboabaTeteu)
 
