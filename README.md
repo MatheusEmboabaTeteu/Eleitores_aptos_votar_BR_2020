@@ -8,7 +8,7 @@
 
 https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado_anos/perfil_eleitorado_anos/2020.html
 
-# [Fatec São José dos Campos](https://fatecsjc-prd.azurewebsites.net/index.php), SP:
+# [Fatec de São José dos Campos, SP:](https://fatecsjc-prd.azurewebsites.net/index.php)
 
 Análise académica de Dados Públicos de 2020-2, trabalho realizado pelo 1º semestre de Análise e Desenvolvimento de Sistemas para o Professor [Fernando Masanori Ashikaga](https://github.com/fmasanori).
 
